@@ -17,11 +17,6 @@ By bridging the gap between local businesses and consumers, Crumbless helps busi
 <div align="center">
   <img src="docs/assets/1.png" alt="Crumbless Client Map" width="48%"/>
   <img src="docs/assets/2.png" alt="Bag Details & Checkout" width="48%"/>
-</div>
-*Interactive map discovery, strict pickup window logic, dietary warnings, and Stripe checkout.*
-
-### The User Profile & Environmental Impact
-<div align="center">
   <img src="docs/assets/3.png" alt="Crumbless Impact Dashboard" width="48%"/>
   <img src="docs/assets/4.png" alt="User Preference Center" width="48%"/>
 </div>
